@@ -2,13 +2,13 @@
     "id": "Tokyo-Toshokan-Raws-Provider",
     "name": "Tokyo Toshokan (Raws)",
     "description": "Fetches raw (unsubtitled) torrents from Tokyo-Toshokan.",
-    "manifestURI": "https://raw.githubusercontent.com/Bas1874/Tokyotosho-Torrent-Provider-Seanime/main/src/tokyotosho-raws/manifest.json",
+    "manifestURI": "https://raw.githubusercontent.com/Bas1874/Tokyotosho-Torrent-Provider-Seanime/main/src/tokyotosho-raw/manifest.json",
     "version": "1.0.0",
     "author": "Bas1874",
     "type": "anime-torrent-provider",
     "language": "typescript",
     "lang": "multi",
     "icon": "https://raw.githubusercontent.com/Bas1874/Tokyotosho-Torrent-Provider-Seanime/main/src/icons/icon.png",
-    "payloadURI": "https://raw.githubusercontent.com/Bas1874/Tokyotosho-Torrent-Provider-Seanime/main/src/tokyotosho-raws/Tokyo-Toshokan-Raws.ts",
+    "payloadURI": "https://raw.githubusercontent.com/Bas1874/Tokyotosho-Torrent-Provider-Seanime/main/src/tokyotosho-raw/Tokyo-Toshokan-Raw.ts",
     "isDevelopment": false
 }
