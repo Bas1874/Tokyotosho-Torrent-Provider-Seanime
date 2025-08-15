@@ -1,0 +1,14 @@
+{
+    "id": "Tokyo-Toshokan-Provider",
+    "name": "Tokyo Toshokan",
+    "description": "Fetches torrents from Tokyo-Toshokan.",
+    "manifestURI": "",
+    "version": "1.0.0",
+    "author": "Bas1874",
+    "type": "anime-torrent-provider",
+    "language": "typescript",
+    "lang": "multi",
+	  "icon": "",
+    "payloadURI": "",
+    "isDevelopment": true
+}
