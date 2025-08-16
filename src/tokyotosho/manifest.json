@@ -3,7 +3,7 @@
     "name": "Tokyo Toshokan",
     "description": "Fetches torrents from Tokyo-Toshokan.",
     "manifestURI": "https://raw.githubusercontent.com/Bas1874/Tokyotosho-Torrent-Provider-Seanime/main/src/tokyotosho/manifest.json",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Bas1874",
     "type": "anime-torrent-provider",
     "language": "typescript",
